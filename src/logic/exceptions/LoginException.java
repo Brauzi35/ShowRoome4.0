@@ -4,7 +4,7 @@ public class LoginException extends Exception{
 
 	private static final long serialVersionUID = 1L;
 
-	//VALERIO BRAUZI
+	//GIANMATTIA MIGNONE
 	public LoginException (String message) {
 		super(message);
 	}
